@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-disqus](backend/modules)
 - [react-native-maps](modules/maps)
 - [django-contact-us](backend/modules)
+- [react-native-mixpanel-analytics](modules/mixpanel-analytics)
 
 # Getting started: Frontend
 
