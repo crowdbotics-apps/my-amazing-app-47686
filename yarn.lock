@@ -2546,10 +2546,10 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
-"@modules/mixpanel-analytics@file:./modules/mixpanel-analytics":
+"@modules/maps@file:./modules/maps/":
   version "1.0.0"
 
-"@modules/mixpanel-analytics@file:./modules/mixpanel-analytics/":
+"@modules/mixpanel-analytics@file:./modules/mixpanel-analytics":
   version "1.0.0"
 
 "@modules/onboarding@file:./modules/onboarding":
