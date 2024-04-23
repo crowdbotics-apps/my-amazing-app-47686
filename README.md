@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-contact-us](backend/modules)
 - [react-native-mixpanel-analytics](modules/mixpanel-analytics)
 - [react-native-image-gallery](modules/image-gallery)
+- [react-native-photo-editing](modules/photo-editing)
 
 # Getting started: Frontend
 
