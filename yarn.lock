@@ -1464,7 +1464,10 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
-"@modules/mixpanel-analytics@file:./modules/mixpanel-analytics/":
+"@modules/maps@file:./modules/maps/":
+  version "1.0.0"
+
+"@modules/mixpanel-analytics@file:./modules/mixpanel-analytics":
   version "1.0.0"
 
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
