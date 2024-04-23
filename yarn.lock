@@ -2541,6 +2541,9 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
+"@modules/maps@file:./modules/maps/":
+  version "1.0.0"
+
 "@modules/mixpanel-analytics@file:./modules/mixpanel-analytics":
   version "1.0.0"
 
@@ -2551,9 +2554,6 @@
     react-native-app-intro-slider "^4.0.4"
 
 "@modules/photo-editing@file:./modules/photo-editing":
-  version "1.0.0"
-
-"@modules/photo-editing@file:./modules/photo-editing/":
   version "1.0.0"
 
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
