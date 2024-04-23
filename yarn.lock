@@ -2546,9 +2546,6 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
-"@modules/maps@file:./modules/maps/":
-  version "1.0.0"
-
 "@modules/mixpanel-analytics@file:./modules/mixpanel-analytics":
   version "1.0.0"
 
@@ -2562,6 +2559,9 @@
   version "1.0.0"
 
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
+  version "1.0.0"
+
+"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview/":
   version "1.0.0"
 
 "@modules/social-login@file:./modules/social-login":
